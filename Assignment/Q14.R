@@ -1,0 +1,2 @@
+vec<-"ball"
+class(vec)

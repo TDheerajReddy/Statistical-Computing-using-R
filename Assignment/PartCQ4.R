@@ -1,0 +1,10 @@
+v1=cat("Fab","ul","as")
+v2=paste("Fab","ul","as")
+v1
+v2
+class(v1)
+class(v2)
+v3=print("60")
+v3
+class(v3)
+cat("Fab",70,"as")
